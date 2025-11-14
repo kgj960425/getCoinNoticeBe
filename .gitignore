@@ -1,0 +1,10 @@
+.venv/
+.env
+.idea/
+*__pycache__/
+*__init__/
+*__init__*
+/instantclient-basic-linux.x64-23.9.0.25.07.zip
+**/oracle_inst/**
+evaluation_results/**
+.claude
